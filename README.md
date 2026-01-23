@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/cover.png" />
+  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/main/cover.png" />
 </p>
 
 <h2 align="center">42 Student • Aspiring Developer • Software & Computer Engineer</h2>
