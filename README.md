@@ -3,6 +3,7 @@
 </p>
 
 <h2 align="center">42 Student • Aspiring Developer • Software & Computer Engineer</h2>
+
 ## 👋 Hey, I'm Mo
 
 🎓 Student at [42 Amman](https://apply.42amman.com/)  
