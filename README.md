@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=20C20E&center=true&vCenter=true&width=600&lines=Hey+I'm+Mo;Low-level+programming+enjoyer;42+Amman+Student;C+|+Algorithms+|+Linux;Building+things+from+scratch" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=20C20E&center=true&vCenter=true&width=600&lines=Hey+I'm+Mo;42+Amman+Student;Low+Level+Programming+Enjoyer+:);" />
 </p>
 ---
 
