@@ -2,14 +2,9 @@
   <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/main/cover1.png" />
 </p>
 
-## 👋 Hey, I'm Mo
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=20C20E&center=true&vCenter=true&width=600&lines=Low-level+programming+enjoyer;42+Amman+Student;C+|+Algorithms+|+Linux;Building+things+from+scratch" />
 </p>
-
-🎓 Student at [42 Amman](https://apply.42amman.com/)  
-💻 Passionate about low-level programming & algorithms
-
 ---
 
 ## 🏫 42 School Projects
