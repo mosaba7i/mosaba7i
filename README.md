@@ -39,9 +39,10 @@
 
 <p align="center">
   <a href="https://github.com/mosaba7i/42-core">
-    <img src="https://img.shields.io/badge/→%20View%20all%20projects-0d1117?style=for-the-badge&logo=github&logoColor=58A6FF">
+    <sub>view all 42 projects</sub>
   </a>
 </p>
+
 
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
