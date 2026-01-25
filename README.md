@@ -5,8 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Mo;42+Amman+Student;Low+Level+Programming+Enjoyer+:);" />
 </p>
+<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
-## 🏫 42 School Projects
+## 42 School Projects
 
 <div align="center">
 
@@ -39,7 +40,7 @@
 🔗 **More projects:**  
 👉 https://github.com/mosaba7i/42-core
 
----
+<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
 ## 📊 GitHub Stats
 
@@ -51,7 +52,7 @@
 
 </div>
 
----
+<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
 ## ⚙️ Tech Stack
 
