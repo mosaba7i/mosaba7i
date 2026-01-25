@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Mo;42+Amman+Student;Aspiring+Developer;Computer+%26+Software+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+I'm+Mo;42+Amman+Student;Aspiring+Developer;Software+%26+Computer+Engineer" />
 </p>
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
@@ -37,8 +37,12 @@
 
 </div>
 
-🔗 **More projects:**  
-👉 https://github.com/mosaba7i/42-core
+<p align="center">
+  <a href="https://github.com/mosaba7i/42-core">
+    <img src="https://img.shields.io/badge/→%20View%20all%20projects-0d1117?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
