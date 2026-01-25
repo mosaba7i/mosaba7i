@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/main/cover.png" />
+  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/main/cover1.png" />
 </p>
 
 ## 👋 Hey, I'm Mo
