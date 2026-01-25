@@ -11,31 +11,22 @@
 
 <div align="center">
 
-<a href="https://github.com/mosaba7i/42-core/tree/main/libft">
+<a href="https://github.com/mosaba7i/42-core/tree/main/libft" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/libfte.png" width="120"/>
-</a>
-
-<a href="https://github.com/mosaba7i/42-core/tree/main/get_next_line">
+</a><a href="https://github.com/mosaba7i/42-core/tree/main/get_next_line" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/get_next_linee.png" width="120"/>
-</a>
-
-<a href="https://github.com/mosaba7i/42-core/tree/main/ft_printf">
+</a><a href="https://github.com/mosaba7i/42-core/tree/main/ft_printf" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/ft_printfe.png" width="120"/>
-</a>
-
-<a href="https://github.com/mosaba7i/42-core/tree/main/fract-ol">
+</a><a href="https://github.com/mosaba7i/42-core/tree/main/fract-ol" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/fract-ole.png" width="120"/>
-</a>
-
-<a href="https://github.com/mosaba7i/42-core/tree/main/Minitalk">
+</a><a href="https://github.com/mosaba7i/42-core/tree/main/Minitalk" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/minitalke.png" width="120"/>
-</a>
-
-<a href="https://github.com/mosaba7i/42-core/tree/main/push_swap">
+</a><a href="https://github.com/mosaba7i/42-core/tree/main/push_swap" style="display:inline-block;">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/push_swape.png" width="120"/>
 </a>
 
 </div>
+
 
 <p align="center">
   <a href="https://github.com/mosaba7i/42-core">
