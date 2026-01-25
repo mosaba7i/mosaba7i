@@ -48,7 +48,7 @@
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -59,13 +59,3 @@
 </div>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
-
-## ⚙️ Tech Stack
-
-- C / Makefile
-- Linux / Bash
-- Algorithms & Data Structures
-
----
-
-Always learning, always building :)
