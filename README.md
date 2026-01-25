@@ -12,7 +12,7 @@
 <div align="center">
 
 <a href="https://github.com/mosaba7i/42-core/tree/main/libft">
-  <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/libfte.png" width="110"/>
+  <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/libfte.png" width="120"/>
 </a>
 
 <a href="https://github.com/mosaba7i/42-core/tree/main/get_next_line">
