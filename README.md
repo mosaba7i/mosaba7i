@@ -59,8 +59,7 @@
 ## GitHub Status
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mosaba7i&show_icons=true&rank_icon=github&hide_title=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaba7i&layout=compact&langs_count=8" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mosaba7i" />
 </p>
 
 <p align="center">
