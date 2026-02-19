@@ -44,13 +44,36 @@
   </a>
 </p>
 
+<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
+## Languages and tools
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,unreal&perline=7" />
+  </a>
+</p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
-## GitHub Stats
+## GitHub Status
 
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mosaba7i&show_icons=true&rank_icon=github&hide_title=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaba7i&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=mosaba7i" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mosaba7i&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosaba7i" />
+</p>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosaba7i&layout=compact&theme=tokyonight"/>
 
