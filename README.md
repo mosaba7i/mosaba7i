@@ -50,8 +50,9 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,unreal,linux,aseprite&perline=9" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,unreal,linux&perline=8" />
   </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aseprite/aseprite-original.svg" width="48" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
