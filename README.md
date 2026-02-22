@@ -52,7 +52,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,unreal,linux&perline=8" />
   </a>
-  <img src="https://cdn.simpleicons.org/aseprite" width="48" />
+  <img src="https://cdn.simpleicons.org/aseprite/FFFFFF" width="48" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
