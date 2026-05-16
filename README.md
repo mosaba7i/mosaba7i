@@ -36,6 +36,9 @@
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/push_swape.png" width="120"/>
 </a>
 
+<a href="https://github.com/mosaba7i/HollowShell">
+  <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/minishelle.png" width="120"/>
+</a>
 </div>
 
 <p align="center">
