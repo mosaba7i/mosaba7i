@@ -50,7 +50,7 @@
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
 ## Personal Projects
-<p align="center">"Soon</p>
+<p align="center">COMING SOON</p>
 <br>
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
