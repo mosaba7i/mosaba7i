@@ -48,8 +48,12 @@
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
-## 42 School Projects
-<p>soon</p>
+
+## Personal Projects
+<p align="center">"Soon</p>
+<br>
+<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
+
 ## Languages and tools
 
 <p align="center">
