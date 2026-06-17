@@ -54,7 +54,7 @@
 
 ## Personal Projects
 <a href="https://github.com/mosaba7i/H">
-  <img src="https://github.com/mosaba7i/badges/blob/main/badges/insc.png" width="120"/>
+  <img src="https://github.com/mosaba7i/badges/blob/main/badges/insc.png" width="200"/>
 </a>
 
 <br>
