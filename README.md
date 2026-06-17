@@ -53,7 +53,10 @@
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
 ## Personal Projects
-<p align="center">COMING SOON</p>
+<a href="https://github.com/mosaba7i/H">
+  <img src="https://github.com/mosaba7i/badges/blob/main/badges/insc.png" width="120"/>
+</a>
+
 <br>
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
