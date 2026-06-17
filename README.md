@@ -44,12 +44,6 @@
 </a>
 </div>
 
-<p align="center">
-  <a href="https://github.com/mosaba7i/42-core">
-    <sub>view all 42 projects</sub>
-  </a>
-</p>
-
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
 ## Personal Projects
