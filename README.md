@@ -68,7 +68,7 @@
 ## GitHub Status
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=mosaba7i" />
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=mosaba7i)](https://git.io/streak-stats)
 </p>
 
 <p align="center">
