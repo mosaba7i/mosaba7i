@@ -67,9 +67,9 @@
 
 ## GitHub Status
 
-<p align="center">
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=mosaba7i)](https://git.io/streak-stats)
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosaba7i" />
