@@ -42,6 +42,10 @@
 <a href="https://github.com/mosaba7i/philo">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/philosopherse.png" width="120"/>
 </a>
+<a href="https://github.com/mosaba7i/CPP-Modules">
+  <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/cppe.png" width="120"/>
+</a>
+
 </div>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
