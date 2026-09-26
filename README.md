@@ -75,7 +75,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaba7i&theme=github_dark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mosaba7i&theme=darkhub&no-frame=true&no-bg=true" />
 </p>
 
 
