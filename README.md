@@ -24,6 +24,10 @@
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/ft_printfe.png" width="120"/>
 </a>
 
+<a href="https://github.com/mosaba7i/born-to-be-root/tree/main">
+  <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/born2beroote.png" width="120"/>
+</a>
+
 <a href="https://github.com/mosaba7i/42-core/tree/main/fract-ol">
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/fract-ole.png" width="120"/>
 </a>
