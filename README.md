@@ -8,7 +8,7 @@
 </p>
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
-## 42 School Projects
+## Projects
 
 <div align="center">
 
@@ -46,14 +46,10 @@
   <img src="https://raw.githubusercontent.com/mosaba7i/42-project-badges/main/badges/cppe.png" width="120"/>
 </a>
 
-</div>
-
-<p align="center">━━━━━━━ ✦ ━━━━━━━</p>
-
-## Personal Projects
 <a href="https://github.com/mosaba7i/inscryption-grub-theme">
   <img src="https://github.com/mosaba7i/badges/blob/main/badges/insc.png" width="120"/>
 </a>
+</div>
 
 <br>
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
