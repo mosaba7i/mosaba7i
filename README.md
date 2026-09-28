@@ -61,7 +61,7 @@
 ## Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,cs,linux,dotnet,vscode,unreal,&perline=11" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,cs,linux,dotnet,vscode,unreal,&perline=10" />
   <img src="https://cdn.simpleicons.org/aseprite/FFFFFF" width="48" />
   <img src="https://cdn.simpleicons.org/penpot/FFFFFF" width="48" />
 </p>
