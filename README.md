@@ -73,7 +73,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosaba7i&theme=github-dark&hide_border=true" />
+  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/output/github-contribution-grid-snake.svg" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
