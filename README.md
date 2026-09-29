@@ -69,11 +69,11 @@
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
 
-## GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaba7i&theme=github_dark" />
-</p>
 
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaba7i&theme=github_dark" alt="GitHub Profile Summary" />
+</p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
