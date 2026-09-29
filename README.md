@@ -73,7 +73,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mosaba7i/mosaba7i/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats-eight-mu.vercel.app/api?username=mosaba7i&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
