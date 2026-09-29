@@ -73,7 +73,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mosaba7i&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mosaba7i&theme=github-dark&hide_border=true" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
