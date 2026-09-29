@@ -73,7 +73,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mosaba7i&theme=github_dark" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mosaba7i&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">━━━━━━━ ✦ ━━━━━━━</p>
